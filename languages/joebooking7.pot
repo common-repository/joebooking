@@ -1,0 +1,299 @@
+
+msgid "A new booking created"
+msgstr ""
+
+msgid "Access Permissions"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Availability Deleted"
+msgstr ""
+
+msgid "Availability Saved"
+msgstr ""
+
+msgid "Available Slots"
+msgstr ""
+
+msgid "Booking Created"
+msgstr ""
+
+msgid "Booking Not Found"
+msgstr ""
+
+msgid "Booking Saved"
+msgstr ""
+
+msgid "Booking Status Changed"
+msgstr ""
+
+msgid "Bookings"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Calendar Saved"
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Confirm Reschedule"
+msgstr ""
+
+msgid "Confirm Swap"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Create New Booking"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Days Of Week"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Edit Availability"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Notifications"
+msgstr ""
+
+msgid "Every Day"
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "Here is your new booking"
+msgstr ""
+
+msgid "High Priority"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Low Priority"
+msgstr ""
+
+msgid "Manage Bookings"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "My Bookings"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Availability"
+msgstr ""
+
+msgid "New Booking"
+msgstr ""
+
+msgid "New Booking Created"
+msgstr ""
+
+msgid "New Calendar"
+msgstr ""
+
+msgid "Next 7 Days"
+msgstr ""
+
+msgid "No Available Slots"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Show"
+msgstr ""
+
+msgid "No bookings or availability"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Normal Priority"
+msgstr ""
+
+msgid "Not Allowed"
+msgstr ""
+
+msgid "Not Paid"
+msgstr ""
+
+msgid "Notifications Saved"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Reschedule"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Submit Booking"
+msgstr ""
+
+msgid "Swap Bookings"
+msgstr ""
+
+msgid "Sync From Another Calendar"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Thank You"
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+msgid "Time Range Too Short For Slot Size"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+msgid "Unsync From Another Calendar"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Wrong Dates"
+msgstr ""
+
+msgid "Wrong Times"
+msgstr ""
+
+msgid "Your Booking Status Changed"
+msgstr ""
+
+msgid "Your New Booking"
+msgstr ""
+
+msgid "Your booking status changed"
+msgstr ""
+
+

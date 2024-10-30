@@ -1,0 +1,111 @@
+/* RESET */
+body,
+div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+a, img,
+b, u, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	line-height: inherit;
+	overflow: visible;
+	outline: none;
+	box-shadow: none;
+}
+
+input, select {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+img { max-width: 100% }
+svg { max-height: 100% }
+
+/* STYLE */
+.hc-app-container {
+/*	max-width: 64em; */
+	width: auto;
+}
+
+body {
+	background-color: #fff;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	font-size: 16px;
+	font-family: pt sans, helvetica, sans-serif, arial;
+}
+
+a {
+	color: #0074d9;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+input, select, textarea, fieldset {
+	font-family: inherit;
+	font-size: inherit;
+	box-sizing: border-box;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+label {
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+select,
+input[type=text],
+input[type=date],
+input[type=datetime],
+input[type=datetime-local],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=time],
+input[type=url],
+input[type=week] {
+	height: 2.5em;
+	padding: .5em .5rem;
+	vertical-align: middle;
+	-webkit-appearance: none;
+}
+
+textarea {
+	padding: .5rem .5rem;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+
+h1 { font-size: 2rem }
+h2 { font-size: 1.5rem }
+h3 { font-size: 1.25rem }
+h4 { font-size: 1rem }
+h5 { font-size: .875rem }
+h6 { font-size: .75rem }
+
+.hc4-main {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin: .5em 0;
+}

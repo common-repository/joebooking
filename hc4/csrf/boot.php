@@ -1,0 +1,25 @@
+<?php if (! defined('ABSPATH')) exit; // Exit if accessed directly
+class HC4_Csrf_Boot
+	implements HC4_App_Module_Interface
+{
+	public static function bind( array $appConfig )
+	{
+		$bind = array();
+
+		switch( $appConfig['platform'] ){
+			case 'standalone':
+				$bind['HC4_Csrf_Interface'] = 'HC4_Csrf_Standalone';
+				break;
+
+			case 'joomla':
+				$bind['HC4_Csrf_Interface'] = 'HC4_Csrf_Standalone';
+				break;
+
+			case 'wordpress':
+				$bind['HC4_Csrf_Interface'] = 'HC4_Csrf_Wordpress';
+				break;
+		}
+
+		return $bind;
+	}
+}
